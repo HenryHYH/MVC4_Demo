@@ -14,5 +14,11 @@ namespace Mvc.Controllers
 
             return View();
         }
+
+        public ActionResult Message()
+        {
+            ViewBag.Message = "Ajax message";
+            return PartialView();
+        }
     }
 }
