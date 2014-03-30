@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Mvc")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("Henry")]
 [assembly: AssemblyProduct("Mvc")]
-[assembly: AssemblyCopyright("版权所有(C) Microsoft 2014")]
+[assembly: AssemblyCopyright("Henry")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

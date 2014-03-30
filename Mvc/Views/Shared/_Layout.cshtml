@@ -1,0 +1,14 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@(ViewBag.Title ?? "Hello world")</title>
+</head>
+<body>
+    @RenderBody()
+    <footer>
+        @RenderSection("Footer", false);
+    </footer>
+</body>
+</html>
